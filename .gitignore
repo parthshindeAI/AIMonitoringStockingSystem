@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Streamlit config
+.streamlit/
+
+# Ignore SQLite DB
+*.db
+
+# VSCode files
+.vscode/
