@@ -1,0 +1,7 @@
+item_name,category,current_stock,usage_today,damaged_stock,delivery_quantity,date
+Wheat,Grains,100,5,1,20,2025-08-01
+Wheat,Grains,95,6,0,0,2025-08-02
+Rice,Grains,150,8,2,0,2025-08-01
+Rice,Grains,140,9,1,0,2025-08-02
+Milk,Dairy,30,4,0,10,2025-08-01
+Milk,Dairy,36,5,1,0,2025-08-02
